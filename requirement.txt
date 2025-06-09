@@ -1,0 +1,5 @@
+BeautifulSoup
+shutil
+textwrap
+requests
+bs4
